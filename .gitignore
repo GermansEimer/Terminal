@@ -1,3 +1,13 @@
+#Git ignore file
 *.aux
-*.
-*.
+*.out
+*.gz
+*.lot
+*.lof
+*.toc
+*.log
+*.idx
+*.bbl
+*.bog
+*.gif
+*.png
